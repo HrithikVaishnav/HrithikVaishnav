@@ -8,7 +8,7 @@
 
 # About Me
 
--   🎓  I am a 3rd year CSE B-tech student From IIITVADODARA
+-   🎓  I am a 4th year CSE B-tech student From IIITVADODARA
 -   ✨  I pick c++ for competitive programming.
 -   🎓  I prefer ReactJS (Javascript library) for frontend and Nodejs for backend part.
 -   😋  Besides programming, I love watching movies and playing badminton.
