@@ -8,9 +8,8 @@
 
 # About Me
 
--   🎓  I am a 4th year CSE B-tech student From IIITVADODARA
--   ✨  I pick c++ for competitive programming.
--   🎓  I prefer ReactJS (Javascript library) for frontend and Nodejs for backend part.
+-   🎓  I am a Software Engineer gratuated from IIITVADODARA
+-   💫  I prefer ReactJS (Javascript library) for frontend and Nodejs for backend part.
 -   😋  Besides programming, I love watching movies and playing badminton.
 
 
@@ -24,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/HrithikVaishnav/Bill/assets/49336648/870a2ac8-6ea1-408c-8d4b-c7ee47c63f7c" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
