@@ -9,8 +9,8 @@
 # About Me
 
 -   🎓  I am a Software Engineer gratuated from IIITVADODARA
--   💫  I prefer ReactJS (Javascript library) for frontend and Nodejs for backend part.
--   😋  Besides programming, I love watching movies and playing badminton.
+-   💫  I prefer ReactJS (Javascript library) for frontend and Python, Nodejs for backend part.
+-   😋  Besides programming, I love watching anime and travelling.
 
 
 # 🧰 Languages and Tools:
